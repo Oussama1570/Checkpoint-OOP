@@ -1,0 +1,55 @@
+/* Carousel */ 
+
+.container img { height: 340px; width: 450px; background-color: rgb(48, 72, 209);} 
+
+/* Welcome Title */
+
+
+header h2 {text-align: center; justify-content: center; font-style: italic; color: rgb(50, 173, 143);
+    font-size: 80px !important; font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5%;margin-bottom: 5%;}
+
+.Welcome {text-align: center; justify-content: center; font-style: italic; color: rgb(21, 124, 64);
+    font-size:50px; font-family: Arial, Helvetica, sans-serif; 
+ margin-top: 5%; margin-bottom: 5%;}  
+
+/* Presentation */
+
+.PresentationIMG { justify-content: center; height: 350px;width: 300px; margin-top: 5%; margin-bottom: 15%; 
+    margin-left:30%; 
+}
+
+.Ppresentatiob {text-align: center; margin-left:0%; font-style: italic; font-size: 20px; font-family: Arial, Helvetica, sans-serif;}
+
+.Articles { text-align: center; font-style: italic; margin-top: 7%; margin-right: 5%; 
+ font-family: Arial, Helvetica, sans-serif; margin-bottom: 7%; margin-top: 10%; font-size: 22px;}
+
+/* section card */
+
+.card {
+    display: flex;
+}
+
+.card img {
+    width: 100px;
+}
+
+.cards {
+    margin: 2% 30%;
+}
+
+.unitt-price {
+    margin-left: 150px;
+}
+
+i {
+    cursor: pointer;
+}
+
+
+/* Total price  */
+
+.total-price-container {
+    text-align: center;
+    margin-bottom: 100px;
+}
